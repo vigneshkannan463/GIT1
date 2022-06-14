@@ -9,7 +9,19 @@ public class Day3 {
 	{
 	System.out.println("day 3 hellow");	
 	}
-
+	
+	
+	@Test
+	public void Day32Start()
+	{
+	System.out.println("am the xx guy commit");	
+	}
+	
+	@Test
+	public void Day42Start()
+	{
+	System.out.println("am the xx guy commit");	
+	}
 	
 	@Test
 	public void Day3Middle()
