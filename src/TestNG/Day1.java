@@ -8,6 +8,17 @@ import org.testng.annotations.Test;
 public class Day1 {
 	
 	
+	@Test
+	public void changesToDo()
+	{
+		System.out.println("am doing few changes");
+	}
+	@Test
+	public void changesToDoNow()
+	{
+		System.out.println("am doing one more changes");
+	}
+	
 	
 	@BeforeMethod
 	public void beforeMethod()

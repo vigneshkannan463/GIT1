@@ -10,6 +10,10 @@ public class Day2 {
 	System.out.println("grouops 2");	
 	}
 
+	public void Day22Start()
+	{
+	System.out.println("grouops 2222");	
+	}
 	
 	@Test
 	public void Day2Middle()
