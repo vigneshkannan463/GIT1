@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Loan Department">
+	<test thread-count="5" name="Running on packagelevel">
+	<groups>
+	<run>
+	<include name="smoke"></include>
+	</run>
+	</groups>
+		<packages>
+			
+			<package name="TestNG"></package>
+		</packages>
+	</test>
+
+<test name="Beforetest and aftertest annotation">
+<classes>
+<class name="TestNGAnnotations.Differetnannotation"></class>
+<class name="TestNGAnnotations.Suite"></class>
+</classes>
+</test>
+	
+	
+	
+	
+	
+	<test name="RegularExpression">
+		<classes>
+			<class name="TestNGRegularexpression.Regularexpression">
+				
+				<methods>
+					<include name="Day.*"></include>
+				</methods>
+			</class>
+			
+		</classes>
+	</test>
+</suite> <!-- Suite -->
