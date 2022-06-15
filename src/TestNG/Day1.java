@@ -11,6 +11,7 @@ public class Day1 {
 	public void Day3ss11Start()
 	{
 	System.out.println("checking new codes are changing lastttt one");	
+	System.out.println("checking new codes are changing lastttt one");
 	}
 	
 	
