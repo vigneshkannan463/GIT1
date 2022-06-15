@@ -7,6 +7,12 @@ import org.testng.annotations.Test;
 
 public class Day1 {
 	
+	@Test
+	public void Day3ss11Start()
+	{
+	System.out.println("checking new codes are changing lastttt one");	
+	}
+	
 	
 	@Test
 	public void Day311Start()
