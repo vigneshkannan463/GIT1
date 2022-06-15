@@ -5,6 +5,23 @@ import org.testng.annotations.Test;
 public class Day3 {
 	
 	@Test
+	public void Day31Start()
+	{
+	System.out.println("develop branch git 1");	
+	}
+	
+	@Test
+	public void Day332Start()
+	{
+	System.out.println("develop branch git 2");	
+	}
+	@Test
+	public void Day33Start()
+	{
+	System.out.println("develop branch git 3");	
+	}
+	
+	@Test
 	public void Day3Start()
 	{
 	System.out.println("day 3 hellow");	
