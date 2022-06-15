@@ -9,6 +9,12 @@ public class Day1 {
 	
 	
 	@Test
+	public void Day311Start()
+	{
+	System.out.println("am the new guy develop branch");	
+	}
+	
+	@Test
 	public void changesToDo()
 	{
 		System.out.println("am doing few changes");
